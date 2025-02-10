@@ -17,3 +17,5 @@ pip install tabulate
 También es importante mencionar que para poder conocer la dirección IP donde se aloja la interfaz con la que vamos a interactuar con el archivo de excel se debe de ejecutar el siguiente código:
 
 streamlit run C:\Users\XCY\Desktop\Carpeta_principal\LLM_para_excel.py (Cambiar ruta donde se encuentra el archivo .py en cuestión)
+
+Una vez se entre en la interfaz en el localhost se debe de subir el archivo de excel con el que se desea interactuar con el botón "Browse files" y por medio de la barra de mensajes se ingresan las preguntas que se le quieran hacer al archivo de excel.
